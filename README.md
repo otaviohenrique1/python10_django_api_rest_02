@@ -32,6 +32,7 @@ Projeto do curso "API com Django 3: Validações, buscas, filtros e deploy" da A
 - pip install virtualenv
 - pip install djangorestframework
 - pip install markdown
+- pip install django-filter
 
 ## Exibir pacotes instalados
 
